@@ -58,7 +58,7 @@
     "uniqCompNum": 41,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
-    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-175505683-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-175505683-1');\n</script>",
+    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-175505683-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-175505683-1');\n</script>\n\n<script data-ad-client=\"ca-pub-5335170003390773\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
