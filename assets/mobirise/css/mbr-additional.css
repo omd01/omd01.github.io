@@ -1127,6 +1127,7 @@ section.lazy-placeholder:after {
 }
 .cid-s9y2Erpe6f H1 {
   color: #149dcc;
+  text-align: center;
 }
 .cid-s9y2Erpe6f .mbr-text,
 .cid-s9y2Erpe6f .mbr-section-btn {
@@ -1189,7 +1190,7 @@ section.lazy-placeholder:after {
 .cid-saWMsYz4pH {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #0e0e0e;
+  background-color: #000000;
 }
 .cid-saWMsYz4pH h3 {
   text-align: center;
@@ -1202,7 +1203,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-saWMsYz4pH .panel-item {
-  background: #0e0e0e;
+  background: #000000;
 }
 .cid-saWMsYz4pH .card {
   word-wrap: break-word;
